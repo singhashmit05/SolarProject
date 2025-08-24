@@ -56,7 +56,7 @@ import {
 const communityMembers = [
   {
     id: 1,
-    name: "Sarah Johnson",
+    name: "Ayushi Raj",
     avatar: "/diverse-woman-portrait.png",
     location: "2.3 km away",
     address: "1247 Oak Street, Apt 3B",
@@ -73,7 +73,7 @@ const communityMembers = [
   },
   {
     id: 2,
-    name: "Mike Chen",
+    name: "Ashmit Balajee",
     avatar: "/thoughtful-man.png",
     location: "1.8 km away",
     address: "892 Pine Avenue, House 15",
@@ -90,7 +90,7 @@ const communityMembers = [
   },
   {
     id: 3,
-    name: "Emma Davis",
+    name: "Anjali Singh",
     avatar: "/diverse-woman-portrait.png",
     location: "3.1 km away",
     address: "456 Maple Drive, Unit 7",
@@ -107,7 +107,7 @@ const communityMembers = [
   },
   {
     id: 4,
-    name: "David Wilson",
+    name: "Anoop Kumar",
     avatar: "/thoughtful-man.png",
     location: "0.9 km away",
     address: "789 Cedar Lane, House 22",
@@ -172,10 +172,10 @@ const weeklySharing = [
 ]
 
 const marketplaceListings = [
-  { id: 1, seller: "Sarah Johnson", amount: 25, price: 0.12, rating: 4.8, timeLeft: "2h 15m" },
-  { id: 2, seller: "Emma Davis", amount: 40, price: 0.13, rating: 4.7, timeLeft: "4h 32m" },
-  { id: 3, seller: "Mike Chen", amount: 15, price: 0.11, rating: 4.9, timeLeft: "1h 45m" },
-  { id: 4, seller: "David Wilson", amount: 30, price: 0.1, rating: 4.6, timeLeft: "6h 12m" },
+  { id: 1, seller: "Ayushi Raj", amount: 25, price: 0.12, rating: 4.8, timeLeft: "2h 15m" },
+  { id: 2, seller: "Anjali Singh", amount: 40, price: 0.13, rating: 4.7, timeLeft: "4h 32m" },
+  { id: 3, seller: "Ashmit Balajee", amount: 15, price: 0.11, rating: 4.9, timeLeft: "1h 45m" },
+  { id: 4, seller: "Anoop Kumar", amount: 30, price: 0.1, rating: 4.6, timeLeft: "6h 12m" },
 ]
 
 const priceHistory = [
