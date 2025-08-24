@@ -12,8 +12,6 @@ const navigation = [
   { name: "Monitoring", href: "/monitoring", icon: Sun },
   { name: "Community", href: "/community", icon: Users },
   { name: "Forecasting", href: "/forecasting", icon: TrendingUp },
-  { name: "Crowdfunding", href: "/crowdfunding", icon: DollarSign },
-  { name: "Learn", href: "/learn", icon: BookOpen },
 ]
 
 export function Navigation() {
